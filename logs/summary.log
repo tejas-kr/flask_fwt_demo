@@ -78,3 +78,118 @@
 [10-30 12:01:11] p21096 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
 [10-30 12:01:34] p21096 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:90} ERROR - Password should contain Alphabets, Numbers and Special Symbols
 [10-30 12:01:34] p21096 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:108} INFO - User has been registed with username: tejas_kk and user_uuid: f3887c0d-4e6a-4d6d-9a94-c4ea08066917
+[10-30 12:11:07] p14212 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:11:15] p19076 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:12:18] p4072 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:12:54] p21368 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:18:46] p18952 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:18:56] p20740 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:19:11] p18784 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:19:23] p18784 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:131} ERROR - Password should contain Alphabets, Numbers and Special Symbols
+[10-30 12:19:32] p18784 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:131} ERROR - Password should contain Alphabets, Numbers and Special Symbols
+[10-30 12:19:35] p18784 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:131} ERROR - Password should contain Alphabets, Numbers and Special Symbols
+[10-30 12:19:45] p18784 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:126} ERROR - Only allowed special symbol is '_'
+[10-30 12:19:49] p18784 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:126} ERROR - Only allowed special symbol is '_'
+[10-30 12:20:00] p20528 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:20:18] p2288 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:21:44] p13664 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:23:00] p11496 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:23:49] p20920 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:23:51] p20920 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:112} ERROR - Unable to add user
+[10-30 12:24:09] p15016 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:24:15] p21440 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:24:35] p6488 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:24:36] p6488 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:112} ERROR - Unable to add userduplicate key value violates unique constraint "users_username_key"
+DETAIL:  Key (username)=(tejas_kk) already exists.
+
+[10-30 12:24:56] p19928 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:25:12] p19928 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:112} ERROR - Unable to add user: duplicate key value violates unique constraint "users_email_key"
+DETAIL:  Key (email)=(tejas@nn.co.in) already exists.
+
+[10-30 12:25:30] p19928 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:112} ERROR - Unable to add user: duplicate key value violates unique constraint "users_email_key"
+DETAIL:  Key (email)=(tejas@example.com) already exists.
+
+[10-30 12:25:45] p19928 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:109} INFO - User has been registed with username: tejas_krj and user_uuid: d1192e08-d055-404e-bca1-6c434fbb12bc
+[10-30 12:26:30] p18988 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:26:36] p21004 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:27:19] p13632 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:30:43] p7040 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:31:52] p10000 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:32:04] p20300 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:32:15] p19568 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:32:41] p5408 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:32:47] p5408 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:145} ERROR - Could not verify user!: list index out of range
+[10-30 12:33:49] p17680 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:33:52] p17680 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:137} INFO - 1, [(12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')]
+[10-30 12:33:52] p17680 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:145} ERROR - Could not verify user!: list index out of range
+[10-30 12:34:51] p16816 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:34:51] p16816 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:138} INFO - 1, [(12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')]
+[10-30 12:34:51] p16816 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:146} ERROR - Could not verify user!: list index out of range
+[10-30 12:35:26] p12416 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:35:28] p12416 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:139} INFO - 1, (12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')
+[10-30 12:35:28] p12416 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:143} INFO - user: tejas_krj successfully authenticated
+[10-30 12:35:51] p12416 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:139} INFO - 1, (12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')
+[10-30 12:35:51] p12416 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:143} INFO - user: tejas_krj successfully authenticated
+[10-30 12:49:37] p15808 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:49:54] p21308 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:50:03] p21308 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:140} INFO - 1, (12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')
+[10-30 12:50:03] p21308 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:144} INFO - user: tejas_krj successfully authenticated
+[10-30 12:50:35] p19176 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:50:39] p19176 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:140} INFO - 1, (12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')
+[10-30 12:50:39] p19176 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:144} INFO - user: tejas_krj successfully authenticated
+[10-30 12:51:24] p21244 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:53:58] p9776 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:54:07] p17192 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:56:01] p20364 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 12:56:04] p13612 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:01:29] p18536 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:01:39] p12708 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:02:25] p16404 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:02:35] p10920 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:02:50] p18608 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:03:03] p13004 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:03:40] p14960 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:03:47] p20300 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:06:22] p13440 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:06:31] p2424 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:06:35] p19568 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:08:52] p16536 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:08:55] p20148 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:09:22] p20940 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:11:01] p17324 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:11:05] p17324 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:141} INFO - 1, (12, 'd1192e08-d055-404e-bca1-6c434fbb12bc', 'tejas_krj')
+[10-30 13:11:05] p17324 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:145} INFO - user: tejas_krj successfully authenticated
+[10-30 13:11:44] p16584 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:12:10] p15496 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:12:47] p2660 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:13:15] p6388 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:14:40] p19316 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:15:06] p15008 {C:\Users\djang\code\python\flask\flask_fwt_demo\app.py:22} INFO - APP RUNNING
+[10-30 13:15:11] p15008 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:20} INFO - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiJkMTE5MmUwOC1kMDU1LTQwNGUtYmNhMS02YzQzNGZiYjEyYmMiLCJleHAiOjE2NjcxMjI4NjV9.yTyiLPshmCWZgfLMmeYD1OKTnEqWtRb0eWwZeSbeuBQ
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: df134a82-d0cd-4fa5-ba12-5f5e7974cbc6
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[10-30 13:15:21] p15008 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:20} INFO - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiJkMTE5MmUwOC1kMDU1LTQwNGUtYmNhMS02YzQzNGZiYjEyYmMiLCJleHAiOjE2NjcxMjI4NjV9.yTyiLPshmCWZgfLMmeYD1OKTnEqWtRb0eWwZeSscxxvxBQ
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 1ade592d-d704-4ffc-bb89-9c0eff837f80
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
+[10-30 13:15:21] p15008 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:35} ERROR - Invalid token!
+[10-30 13:15:28] p15008 {C:\Users\djang\code\python\flask\flask_fwt_demo\authentication.py:20} INFO - Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiJkMTE5MmUwOC1kMDU1LTQwNGUtYmNhMS02YzQzNGZiYjEyYmMiLCJleHAiOjE2NjcxMjI4NjV9.yTyiLPshmCWZgfLMmeYD1OKTnEqWtRb0eWwZeSbeuBQ
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: fa8dd868-8d8e-4bc8-85af-e2f19a2e1507
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+
