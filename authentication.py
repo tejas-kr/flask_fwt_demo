@@ -1,4 +1,4 @@
-from flask import current_app, Blueprint, jsonify, render_template, request, make_response
+from flask import current_app, Blueprint, jsonify, render_template, request, make_response, session
 from functools import wraps
 import jwt
 import re
@@ -151,6 +151,9 @@ def login():
         if count == 1 and result[2] == req['username']:
             token = jwt.encode({'public_id': result[1], "exp": datetime.now(tz=timezone.utc) + timedelta(hours=2)}, current_app.config['SECRET_KEY'], 'HS256')
             current_app.logger.info(f"user: {result[2]} successfully authenticated")
+            session['username'] = result[2]
+            session['user_uuid'] = result[1]
+            session['Authorization'] = f"Bearer {token}"
             return make_response(jsonify({'token': token}), 201)
 
     except Exception as e:
